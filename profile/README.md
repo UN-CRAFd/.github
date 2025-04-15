@@ -8,11 +8,16 @@ Learn more at [crafd.io/](https://crafd.io/)
 
 ---
 
-## Our Project Partners on GitHub
+### Our Project Partners on GitHub
 
-- [CrisisGroup](https://github.com/CrisisGroup)
+- [International Crisis Group (ICG)](https://github.com/CrisisGroup)
 - [ACLED](https://github.com/ACLED)
 - [IDMC](https://github.com/idmc-labs)
+- [IOM](https://github.com/UNMigration)
+- [IGAD Climate Prediction and Applications Centre (ICPAC)](https://github.com/icpac-igad)
+- [IFRC](https://github.com/IFRCGo)
+- [UNDP](https://github.com/undp)
+- [European Commission, Joint Research Centre (JRC)](https://github.com/ec-jrc)
 - ...
 
 
