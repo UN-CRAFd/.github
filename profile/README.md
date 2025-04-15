@@ -6,8 +6,9 @@ We are driven by the conviction that data, analytics, and AI can help global par
 
 Learn more at [crafd.io/](https://crafd.io/)
 
+---
 
-## Our Projects on GitHub
+## Our Project Partners on GitHub
 
 - https://github.com/CrisisGroup
 - ...
