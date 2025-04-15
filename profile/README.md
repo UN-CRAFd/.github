@@ -16,4 +16,4 @@ Learn more at [crafd.io/](https://crafd.io/)
 - ...
 
 
-See all CRAF’d-funded projects: [crafd.io/data-financing]([url](https://crafd.io/data-financing))
+See all CRAF’d-funded projects at [crafd.io/data-financing](https://crafd.io/data-financing)
